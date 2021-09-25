@@ -1,1 +1,2 @@
-# xelph-nord-st-git
+# Simple terminal from suckless.org
+
