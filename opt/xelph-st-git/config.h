@@ -5,9 +5,9 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "JetBrainsMono Nerd Font:style:medium:size=11.5";
+static char *font = "JetBrainsMono Nerd Font:style:regular:size=11.5";
 static char *font2[] = { "JetBrainsMono Nerd Font:style:medium:size=11.5" };
-static int borderpx = 45;
+static int borderpx = 15;
 
 /*
  * What program is execed by st depends of these precedence rules:
